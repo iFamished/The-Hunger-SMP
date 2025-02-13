@@ -15,3 +15,4 @@ The Hunger SMP is a Vanilla+ Minecraft server created by owner iFamished and for
 - Custom structures
 - Web map
 - Better performance
+- Adaptive render distance and simulation distance
