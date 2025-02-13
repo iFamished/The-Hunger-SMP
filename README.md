@@ -16,3 +16,5 @@ The Hunger SMP is a Vanilla+ Minecraft server created by owner iFamished and for
 - Web map
 - Better performance
 - Adaptive render distance and simulation distance
+- New QoL commands such as /craft, /bed, /enderchest, etc.
+- Daily time limit (2 hours, can be increased with ranks)
