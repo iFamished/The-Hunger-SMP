@@ -18,3 +18,12 @@ The Hunger SMP is a Vanilla+ Minecraft server created by owner iFamished and for
 - Adaptive render distance and simulation distance
 - New QoL commands such as /craft, /bed, /enderchest, etc.
 - Daily time limit (2 hours, can be increased with ranks)
+
+### **Adresses:**
+- _The Hunger SMP: Beta 6_ IP: HungerSMP.PlayIt.GG
+- Server panel: https://panel.hungersmp.playit.gg:46192
+- Server live map: map.hungersmp.playit.gg:65304
+
+### **Important dates:**
+- March 1: _The Hunger SMP: Season 6_ opens
+- Every month: Bug fixes and/or feature updates
