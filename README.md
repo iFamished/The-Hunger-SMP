@@ -6,19 +6,6 @@ The Hunger SMP is a Vanilla+ Minecraft server created by owner iFamished and for
 - Chat formatting
 - The ability to connect using any Minecraft version from 1.8-1.21.4
 
-## **New to Season 6:**
-- Support for 1.21.4
-- Vanilla+ generation
-- Ranks
-- Chat filtering
-- Emoticons
-- Custom structures
-- Web map
-- Better performance
-- Adaptive render distance and simulation distance
-- New QoL commands such as /craft, /bed, /enderchest, etc.
-- Daily time limit (2 hours, can be increased with ranks)
-
 ### **Adresses:**
 - _The Hunger SMP: Season 6_ IP: HungerSMP.PlayIt.GG
 - [Server Panel](https://panel.hungersmp.playit.gg:46192)
@@ -28,6 +15,15 @@ The Hunger SMP is a Vanilla+ Minecraft server created by owner iFamished and for
 - March 1: _The Hunger SMP: Season 6_ opens
 - Every month: Bug fixes and/or feature updates
 
-### **_Changelogs:_**
+### Changelog
+v6:
+- Support for 1.21.4
+- Vanilla+ terrain generation
+- Custom structures
+- Web map
+- Better performance
+- Adaptive render distance and simulation distance
 
-- N/A
+v6.1:
+- Trident enhancements:
+  - [Adaptibility enchantment](https://modrinth.com/datapack/adaptability-enchantment), [Expanded Trident enchanting](https://modrinth.com/mod/expanded-trident-enchanting), [Improved Trident](https://modrinth.com/mod/improved-trident), and [Trident Buffs](https://modrinth.com/datapack/trident-buffs)
