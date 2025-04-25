@@ -36,3 +36,8 @@ v6.3:
 - Added [desire lines](https://modrinth.com/datapack/gm4-desire-lines?version=1.21.4)
 - Added [apple trees](https://modrinth.com/datapack/gm4-apple-trees)
 - Added [double doors](https://modrinth.com/datapack/gm4-double-doors)
+
+v6.4:
+- Removed [metallurgy system](https://wiki.gm4.co/Metallurgy)
+- Added [more enchantments](https://modrinth.com/datapack/neoenchant)
+- Added [vanilla knockback sticks](https://modrinth.com/datapack/ev-knockback-sticks)
