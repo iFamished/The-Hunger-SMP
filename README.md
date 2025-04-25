@@ -17,13 +17,22 @@ The Hunger SMP is a Vanilla+ Minecraft server created by owner iFamished and for
 
 ### Changelog
 v6:
-- Support for 1.21.4
-- Vanilla+ terrain generation
-- Custom structures
-- Web map
-- Better performance
-- Adaptive render distance and simulation distance
+- Updated to 1.21.4
+- Added vanilla+ terrain generation
+- Edded custom structures
+- Added web map
+- Increased performance
+- Added adaptive render distance and simulation distance
 
 v6.1:
-- Trident enhancements:
+- Added trident enhancements:
   - [Adaptibility enchantment](https://modrinth.com/datapack/adaptability-enchantment), [Expanded Trident enchanting](https://modrinth.com/mod/expanded-trident-enchanting), [Improved Trident](https://modrinth.com/mod/improved-trident), and [Trident Buffs](https://modrinth.com/datapack/trident-buffs)
+
+v6.2:
+- Added [metallurgy system](https://wiki.gm4.co/Metallurgy)
+
+v6.3:
+- Added [biome-based caves](https://modrinth.com/datapack/gm4-cooler-caves?version=1.21.4)
+- Added [desire lines](https://modrinth.com/datapack/gm4-desire-lines?version=1.21.4)
+- Added [apple trees](https://modrinth.com/datapack/gm4-apple-trees)
+- Added [double doors](https://modrinth.com/datapack/gm4-double-doors)
