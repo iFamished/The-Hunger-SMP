@@ -41,3 +41,19 @@ v6.4:
 - Removed [metallurgy system](https://wiki.gm4.co/Metallurgy)
 - Added [more enchantments](https://modrinth.com/datapack/neoenchant)
 - Added [vanilla knockback sticks](https://modrinth.com/datapack/ev-knockback-sticks)
+
+v6.5:
+- Updated all mods
+- Balanced enchantments
+  - Life+ now only works on a shield
+  - Xp Plus is now compatible with Mending
+  - Debuffed Kinetic Protection
+  - Renamed Elytra Protection to Skyguard
+  - Swift Strike's max level is now 3
+  - Added Frost Aspect
+  - Added Luminescent 
+  - Added Retrieval
+  - Added Websnare
+  - Added Curse of Clumsiness 
+  - Added Curse of Displacement
+  - Added Curse of Double Edge
