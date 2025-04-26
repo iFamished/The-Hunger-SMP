@@ -57,3 +57,6 @@ v6.5:
   - Added Curse of Clumsiness 
   - Added Curse of Displacement
   - Added Curse of Double Edge
+  - Modified Sharpness to work on Tridents
+  - Modified Power to work on Crossbows
+  - Modified Silk Touch to work on Swords
