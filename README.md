@@ -60,3 +60,7 @@ v6.5:
   - Modified Sharpness to work on Tridents
   - Modified Power to work on Crossbows
   - Modified Silk Touch to work on Swords
+
+v6.6:
+- Removed all extra enchantments (temporarily) 
+- Added Dev server (Dev.HungerSMP.Playit.gg)
