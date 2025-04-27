@@ -63,4 +63,5 @@ v6.5:
 
 v6.6:
 - Removed all extra enchantments (temporarily) 
-- Added Dev server (Dev.HungerSMP.Playit.gg)
+- Added Dev server (Dev.HungerSMP.Playit.gg). Not up all the time.
+- Removed Live map (temporarily) as it was bugged
