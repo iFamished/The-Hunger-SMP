@@ -16,6 +16,8 @@ The Hunger SMP is a Vanilla+ Minecraft server created by owner iFamished and for
 - Every month: Bug fixes and/or feature updates
 
 ### Changelog
+<details>
+<summary>v6</summary>
 v6:
 - Updated to 1.21.4
 - Added vanilla+ terrain generation
@@ -23,6 +25,7 @@ v6:
 - Added web map
 - Increased performance
 - Added adaptive render distance and simulation distance
+</details>
 
 v6.1:
 - Added trident enhancements:
