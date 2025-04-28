@@ -9,7 +9,8 @@ The Hunger SMP is a Vanilla+ Minecraft server created by owner iFamished and for
 ### **Adresses:**
 - _The Hunger SMP: Season 6_ IP: HungerSMP.PlayIt.GG
 - [Server Panel](https://panel.hungersmp.playit.gg:46192)
-- [Live map](http://map.hungersmp.playit.gg:1972)
+- [Live map](http://map.hungersmp.playit.gg:1972) (currently not working) 
+- _The Hunger SMP: Dev_ IP: Dev.HungerSMP.PlayIt.GG
 
 ### **Important dates:**
 - March 1: _The Hunger SMP: Season 6_ opens
