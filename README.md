@@ -73,3 +73,9 @@ v6.7:
   - Renamed Life+ to Vitality
   - Luminosity now only works on a helmet
 - Fixed bug allowing for Kinetic Protection being applied twice to an item
+
+v6.8:
+- Added Wiki
+  - Homepage
+  - Enchantments
+- Updated enchantments
